@@ -11,7 +11,7 @@ public class Main {
                     .setGender(Gender.MALE)
                     .setPsp(91.23)
                     .setUniversityName("SGBAU")
-                    .setMobileNumber("9579027397")
+                    .setMobileNumber("7878787878")
                     .build();
             System.out.println(student);
         } catch (InvalidArgumentException e) {
