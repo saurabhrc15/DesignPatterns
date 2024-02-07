@@ -1,4 +1,4 @@
-package DesignPatterns.Prototype;
+package CreationalPatterns.Prototype;
 
 public class Bike extends Vehicle{
     public Bike(){

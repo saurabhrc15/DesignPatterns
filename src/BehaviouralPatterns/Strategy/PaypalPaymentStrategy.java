@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy;
+package BehaviouralPatterns.Strategy;
 
 public class PaypalPaymentStrategy implements PaymentStrategy{
     private String username;

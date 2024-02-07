@@ -1,4 +1,4 @@
-package DesignPatterns.Registry;
+package CreationalPatterns.Registry;
 
 import java.util.ArrayList;
 import java.util.HashMap;

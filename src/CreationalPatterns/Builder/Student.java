@@ -1,6 +1,6 @@
-package DesignPatterns.Builder;
+package CreationalPatterns.Builder;
 
-import DesignPatterns.Builder.exceptions.InvalidArgumentException;
+import CreationalPatterns.Builder.exceptions.InvalidArgumentException;
 
 public class Student {
     private String name;

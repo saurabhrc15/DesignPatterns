@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy;
+package BehaviouralPatterns.Strategy;
 
 public class CreditCardPaymentStrategy implements PaymentStrategy{
     private String name;

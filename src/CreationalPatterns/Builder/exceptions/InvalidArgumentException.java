@@ -1,4 +1,4 @@
-package DesignPatterns.Builder.exceptions;
+package CreationalPatterns.Builder.exceptions;
 
 public class InvalidArgumentException extends Exception {
 }

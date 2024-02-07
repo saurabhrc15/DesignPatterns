@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy;
+package BehaviouralPatterns.Strategy;
 
 public class Item {
     private String itemCode;

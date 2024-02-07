@@ -1,4 +1,4 @@
-package DesignPatterns.Prototype;
+package CreationalPatterns.Prototype;
 
 public abstract class Vehicle implements Cloneable{
     private String vehicleType;

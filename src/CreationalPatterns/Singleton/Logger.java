@@ -1,4 +1,4 @@
-package DesignPatterns.Singleton;
+package CreationalPatterns.Singleton;
 
 public class Logger {
     private static Logger loggerInstance = null;

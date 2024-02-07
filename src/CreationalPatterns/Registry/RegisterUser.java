@@ -1,4 +1,4 @@
-package DesignPatterns.Registry;
+package CreationalPatterns.Registry;
 
 import static java.lang.System.exit;
 

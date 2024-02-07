@@ -1,4 +1,4 @@
-package DesignPatterns.Factory;
+package CreationalPatterns.Factory;
 
 public class OracleDatabase implements Database{
     @Override

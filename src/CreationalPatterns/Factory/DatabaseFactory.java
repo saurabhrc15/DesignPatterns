@@ -1,4 +1,4 @@
-package DesignPatterns.Factory;
+package CreationalPatterns.Factory;
 
 public class DatabaseFactory {
     public Database getDatabaseConnection(String dbName) throws Exception {

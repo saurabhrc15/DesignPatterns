@@ -1,6 +1,6 @@
-package DesignPatterns.Builder;
+package CreationalPatterns.Builder;
 
-import DesignPatterns.Builder.exceptions.InvalidArgumentException;
+import CreationalPatterns.Builder.exceptions.InvalidArgumentException;
 
 public class Main {
     public static void main(String[] args) {
