@@ -6,7 +6,7 @@ public class Main {
 
         StockJSONData stockJSONData = new XMLToJSONAdapter(stockDataProvider);
 
-        StockAnalyzer stockAnalyzer = new StockAnalyzer();
+        StockAnalyzerThirdPartyLibrary stockAnalyzer = new StockAnalyzerThirdPartyLibrary();
 
         stockAnalyzer.analyseStockData(stockJSONData);
     }
