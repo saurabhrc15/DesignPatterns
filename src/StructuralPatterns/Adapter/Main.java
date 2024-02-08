@@ -1,6 +1,6 @@
 package StructuralPatterns.Adapter;
 
-public class StockMarketApp {
+public class Main {
     public static void main(String[] args) {
         StockDataProvider stockDataProvider = new StockDataProvider();
 
