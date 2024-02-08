@@ -1,4 +1,4 @@
-package CreationalPatterns.FactoryMethod;
+package CreationalPatterns.AbstractFactory;
 
 public interface Database {
     public void connect();
